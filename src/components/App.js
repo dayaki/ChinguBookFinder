@@ -12,6 +12,11 @@ class App extends Component {
   };
 
   handleInputChange = e => {
+    // if (e.target.value === "") {
+    //   this.setState({
+    //     error: true,
+    //   });
+    // }
     this.setState({
       searchTerm: e.target.value.toLowerCase()
     });
