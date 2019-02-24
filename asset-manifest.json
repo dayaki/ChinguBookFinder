@@ -1,15 +1,15 @@
 {
-  "main.css": "/ChinguBookFinder/static/css/main.32f5f6e7.chunk.css",
-  "main.js": "/ChinguBookFinder/static/js/main.c09cad46.chunk.js",
-  "main.js.map": "/ChinguBookFinder/static/js/main.c09cad46.chunk.js.map",
+  "main.css": "/ChinguBookFinder/static/css/main.be7e21cb.chunk.css",
+  "main.js": "/ChinguBookFinder/static/js/main.e3edc54b.chunk.js",
+  "main.js.map": "/ChinguBookFinder/static/js/main.e3edc54b.chunk.js.map",
   "runtime~main.js": "/ChinguBookFinder/static/js/runtime~main.050de0b8.js",
   "runtime~main.js.map": "/ChinguBookFinder/static/js/runtime~main.050de0b8.js.map",
   "static/js/2.e2a03234.chunk.js": "/ChinguBookFinder/static/js/2.e2a03234.chunk.js",
   "static/js/2.e2a03234.chunk.js.map": "/ChinguBookFinder/static/js/2.e2a03234.chunk.js.map",
   "index.html": "/ChinguBookFinder/index.html",
-  "precache-manifest.6c4fffdcb9482bb8306b0087f6c368d6.js": "/ChinguBookFinder/precache-manifest.6c4fffdcb9482bb8306b0087f6c368d6.js",
+  "precache-manifest.1737d607759bb2b01032ef4b1645ad77.js": "/ChinguBookFinder/precache-manifest.1737d607759bb2b01032ef4b1645ad77.js",
   "service-worker.js": "/ChinguBookFinder/service-worker.js",
-  "static/css/main.32f5f6e7.chunk.css.map": "/ChinguBookFinder/static/css/main.32f5f6e7.chunk.css.map",
+  "static/css/main.be7e21cb.chunk.css.map": "/ChinguBookFinder/static/css/main.be7e21cb.chunk.css.map",
   "static/media/cancel.svg": "/ChinguBookFinder/static/media/cancel.e85191c6.svg",
   "static/media/loading.svg": "/ChinguBookFinder/static/media/loading.b78dc987.svg"
 }

@@ -12,19 +12,19 @@ self.__precacheManifest = [
     "url": "/ChinguBookFinder/static/js/runtime~main.050de0b8.js"
   },
   {
-    "revision": "c09cad464dd2fbfe07a7",
-    "url": "/ChinguBookFinder/static/js/main.c09cad46.chunk.js"
+    "revision": "e3edc54bc8292c57e92c",
+    "url": "/ChinguBookFinder/static/js/main.e3edc54b.chunk.js"
   },
   {
     "revision": "e2a032349bc2797c4db5",
     "url": "/ChinguBookFinder/static/js/2.e2a03234.chunk.js"
   },
   {
-    "revision": "c09cad464dd2fbfe07a7",
-    "url": "/ChinguBookFinder/static/css/main.32f5f6e7.chunk.css"
+    "revision": "e3edc54bc8292c57e92c",
+    "url": "/ChinguBookFinder/static/css/main.be7e21cb.chunk.css"
   },
   {
-    "revision": "01356ac8846f2a9885928c263bb45172",
+    "revision": "34a708a67edfadfebd8f20c03da272fe",
     "url": "/ChinguBookFinder/index.html"
   }
 ];
